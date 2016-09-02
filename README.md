@@ -1,4 +1,4 @@
 # second_app
 test repository
 
-Updating README file..
+There are no build commands required.
